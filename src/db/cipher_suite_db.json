@@ -1,0 +1,14 @@
+[
+    {
+        "browser": "Google Chrome 79.0.3945.130",
+        "cipherSuites": "130113031302c02bc02fcca9cca8c02cc030c00ac009c013c01400330039002f0035000a"
+    },
+    {
+        "browser": "Mozilla Firefox 72.0.1",
+        "cipherSuites": "6a6a130113021303c02bc02fc02cc030cca9cca8c013c014009c009d002f0035000a"
+    },
+    {
+        "browser": "Microsoft Edge 44.18362.449.0",
+        "cipherSuites": "c02cc02bc030c02fc024c023c028c027c00ac009c014c013009d009c003d003c0035002f000a"
+    }
+]
